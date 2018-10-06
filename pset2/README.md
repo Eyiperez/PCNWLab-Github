@@ -176,9 +176,9 @@ Insert about me
 
 ---
 ### Erika Perez
-<img src='' width='150'>
+<img src='ErikaPic.JPEG' width='150'>
 
-Insert about me
+"Give the world the best you have and it may never be enough, give your best anyway" -Mother Teresa
 
 ---
 ### Steven Regis
